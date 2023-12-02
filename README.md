@@ -31,6 +31,5 @@ Javascript | HTML | CSS | React.js | Node.js | Express.js | ElectronJS | SQL | P
 Contáctame 😄📫<br />
 <div> 
  	<a href = "mailto:eleomarpedrolorenzo@gmail.com"><img src="https://user-images.githubusercontent.com/69527151/210247571-598eb6d7-e7a5-4077-b5f2-f1a97649ad34.svg" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eleomar-pedro-lorenzo/" target="_blank"><img src="https://user-images.githubusercontent.com/69527151/210247584-3aad6252-f234-4eb4-9b0c-fe18ce5526cb.svg" target="_blank"></a> 
-  <a href="https://www.instagram.com/eleomarpedrolorenzo/" target="_blank"><img src="https://user-images.githubusercontent.com/69527151/210247979-96fd9c64-4457-4366-8065-c4fbaebf9937.svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eleomar-pedro-lorenzo/" target="_blank"><img src="https://user-images.githubusercontent.com/69527151/210247584-3aad6252-f234-4eb4-9b0c-fe18ce5526cb.svg" target="_blank"></a>
 </div>
