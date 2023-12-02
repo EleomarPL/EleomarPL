@@ -11,7 +11,7 @@ Quiero seguir aprendiendo, mejorando mis habilidades y mi código por supuesto p
 
 Gracias por leer 🎁.
 
-📋🌱 Habilidades:trophy::muscle:
+📋🌱 Habilidades 🏆💪
 
 Javascript | HTML | CSS | React.js | Node.js | Express.js | ElectronJS | SQL | PHP | Laravel | Codeigniter | git | Agile Methodologies (Scrum)
 
