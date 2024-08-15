@@ -7,7 +7,7 @@ Yo soy de Oaxaca, México. Aquí encontré la pasión por el avance tecnológico
 Así comencé mi camino en este mundo. En 2017 después de aprender por mi mismo, entre al Instituto Tecnológico de Pochutla 🤓🚀.<br />
 Estudie ingeniería en sistemas computacionales :man_student:. He tenido la oportunidad de sumergirme en algunos proyectos para mejorar mi código y diseño. Finalice mi carrera profesional en noviembre 2022 ⭐.
 
-Quiero seguir aprendiendo, mejorando mis habilidades y mi código por supuesto para ser parte del desarrollo tecnológico, porque creo que el futuro del mundo está en manos de los desarrolladores :computer:.
+Quiero seguir aprendiendo, mejorando mis habilidades y mi código por supuesto para ser parte del desarrollo tecnológico :computer:.
 
 Gracias por leer 🎁.
 
